@@ -17,7 +17,7 @@ Séances du chapitre 2 : mercredi 9 décembre 2026 (matin et après-midi), mardi
 ## Démarrage rapide
 
 1. Constituez un groupe — **3 personnes est le format standard**.
-2. Choisissez un sujet dans le [catalogue 2026-2027](docs/CATALOGUE.md), puis [réservez-le par une issue](https://github.com/jsboigeEPF/2026-MSMIS5IN11-Probas-ML/issues/new?template=inscription-groupe.yml). Un sujet ne peut être réservé que par un groupe. Reportez aussi votre groupe et votre sujet dans la feuille d'inscription indiquée sur Moodle.
+2. Choisissez un sujet dans le [catalogue 2026-2027](docs/CATALOGUE.md), puis inscrivez le groupe et ses vœux dans la **feuille d'inscription** du cours (lien indiqué sur Moodle). Un sujet n'est attribué qu'à un groupe ; la feuille fait foi, et aucune issue n'est nécessaire pour réserver.
 3. Forkez ce dépôt sur le compte d'un membre du groupe.
 4. Créez un dossier unique à la racine, nommé `groupe-<nom-court>`.
 5. Copiez le contenu de [`template-groupe/`](template-groupe/) dans ce dossier.
